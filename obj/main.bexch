@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/mike/Desktop/Folders/ada/Lab4/lab4.gpr
+20240412045728 2c487b928b95f8a05d32b7ff6840df3e
+[BOUND OBJECT FILES]
+/home/mike/Desktop/Folders/ada/Lab4/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/mike/Desktop/Folders/ada/Lab4/obj/
+-L/home/mike/Desktop/Folders/ada/Lab4/obj/
+-L/home/mike/opt/GNAT/2021/ada-IDE/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/
+-static
+-static-libgcc
+/home/mike/opt/GNAT/2021/ada-IDE/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/libgnarl.a
+/home/mike/opt/GNAT/2021/ada-IDE/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/libgnat.a
+-lrt
+-lpthread
+-ldl
